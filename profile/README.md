@@ -33,20 +33,46 @@ We are looking for developers, UI/UX designers, and vegan advocates who want to 
 ## 🌐 Ecosystem & Community
 
 <p align="left">
+  <a href="https://vegstyle.org.uk/">
+    <img src="https://img.shields.io/badge/Website-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/vegstylecio/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
   <a href="https://opencollective.com/vegstylecio">
     <img src="https://img.shields.io/badge/OpenCollective-Support%20Us-white?style=for-the-badge&logo=opencollective" alt="Support on OpenCollective">
   </a>
-  <a href="https://bsky.app/profile/vegstyle.org.uk">
-    <img src="https://img.shields.io/badge/BlueSky-Follow%20Us-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky">
-  </a>
-  <a href="https://youtube.com/@vegstylecio">
-    <img src="https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.tiktok.com/@vegstylecio">
-    <img src="https://img.shields.io/badge/TikTok-Follow%20Us-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
+  &nbsp;
   <a href="https://linktr.ee/vegstylecio">
     <img src="https://img.shields.io/badge/LinkTree-All%20Links-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree">
+  </a>
+  <br><br>
+
+  <a href="https://mastodon.social/@vegstylecio">
+    <img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
+  </a>
+  &nbsp;
+  <a href="https://x.com/vegstylecio">
+    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  &nbsp;
+  <a href="https://bsky.app/profile/vegstyle.org.uk">
+    <img src="https://img.shields.io/badge/BlueSky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky">
+  </a>
+  <br><br>
+
+  <a href="https://www.instagram.com/vegstylecio/">
+    <img src="https://img.shields.io/badge/Instagram-Gallery-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@vegstylecio">
+    <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@vegstylecio">
+    <img src="https://img.shields.io/badge/TikTok-Watch-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </p>
 
